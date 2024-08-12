@@ -34,7 +34,7 @@
 						type="email"
 						id="email"
 						name="email"
-						placeholder="e.g., email@example.com"
+						placeholder="e.g., you@example.com"
 						required
 						disabled={loading}
 					/>
@@ -45,7 +45,7 @@
 						type="password"
 						id="password"
 						name="password"
-						placeholder="e.g., ••••••••"
+						placeholder="e.g., • • • • • •"
 						required
 						disabled={loading}
 					/>
